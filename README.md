@@ -7,4 +7,4 @@
 - Сюсюков Володимир ІМ-34
 
 
-Yakymets lab1
+Olynik lab1

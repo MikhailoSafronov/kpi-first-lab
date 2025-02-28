@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kpi-first-lab
 
 ### Лабораторну виконали:
@@ -8,3 +9,12 @@
 
 
 Olynik lab1
+=======
+<<<<<<< HEAD
+# kpi-first-lab
+=======
+# kpi-first-labSome text from Safronov
+
+test
+>>>>>>> b274877 (Update README.md)
+>>>>>>> 78c619d (Update README.md)
